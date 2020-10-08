@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Jscipt"
+		},
+		{
+			"path": "..\\..\\script"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Jquery"
+	}
+}
